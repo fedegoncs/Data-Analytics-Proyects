@@ -1,4 +1,4 @@
-AirTraffic Passenger - La base de datos fue obtenida desde una fuente de US donde a partir de diferentes ecuaciones y parámetros cree nuevos campos fictisios para tener más información. Es por eso que puede que alguno de los resultados arrojados podrían no tener sentido fisico.
+AirTraffic Passenger - The database was obtained from a US source where from different equations and parameters I created new fictitious fields to have more information. That is why some of the results may not make physical sense.
 
 Power BI - Sales Report + Interactive Dashboard
 
